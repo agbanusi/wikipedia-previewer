@@ -1,2 +1,2 @@
 # wikipedia-previewer
-An app that shows the results of your serach in cards form
+An app that shows the results of your search in cards form
