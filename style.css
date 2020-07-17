@@ -1,0 +1,49 @@
+.body{
+    display:grid;
+    justify-items:center;
+}
+#top{
+    padding-top:15%;
+    width:100%;
+    display:grid;
+    justify-items:center;  
+}
+.card{
+    width:80%;
+    background-color:white;
+    margin-top:2.5%;
+    padding:0px 1.25% 0px 1.25%;
+    border-radius:1.5rem;
+}
+.card:hover{
+  background-color:#bdbdbd;
+}
+.search{
+    display:flex;
+}
+a{
+ text-decoration: none;
+ color: black;
+}
+body{
+    background-color: #006064
+}
+input{
+    margin-right:0px;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border:0px;
+    padding-left:0.5rem;
+}
+input:focus{
+    outline:none;
+}
+.x{
+    margin-left:0px;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border:0px;
+}
+.x:focus{
+  outline:none
+}
